@@ -2,5 +2,5 @@ STMIK TIME
 Yosef
 test
 A
-B
-c       hello word git
+test1
+test2
