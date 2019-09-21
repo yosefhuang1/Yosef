@@ -1,6 +1,6 @@
 STMIK TIME
 Yosef
-Text
+test
 A
 B
-C
+c
