@@ -1,6 +1,5 @@
 STMIK TIME
 Yosef
-test
-A
-B
-c       hello word git
+D
+E
+F
